@@ -30,9 +30,11 @@ GEE  →  Colab  →  Tableau Public  →  Pengguna
 
 ## 3. Pratinjau Antarmuka
 
-![Pratinjau dasbor Tableau](../docs/images/tableau_preview.png)
+![Halaman Utama](images/halamanutama.png)
+*Gambar 1. Pratinjau antarmuka halaman utama dashboard.*
 
-_Gambar 1. Pratinjau antarmuka dashboard. Berkas gambar disimpan pada folder `docs/images/`._
+![Sub Halaman](images/subhalaman.png)
+*Gambar 2. Pratinjau antarmuka sub halaman dashboard.*
 
 ## 4. Spesifikasi Fungsional
 
