@@ -1,0 +1,545 @@
+﻿Provinsi;Tahun;loss_ha
+Aceh;2010;40757
+Bali;2010;198
+Bangka Belitung;2010;23187
+Banten;2010;1633
+Bengkulu;2010;16012
+Gorontalo;2010;1570
+Jakarta Raya;2010;2
+Jambi;2010;36678
+Jawa Barat;2010;2632
+Jawa Tengah;2010;1323
+Jawa Timur;2010;1648
+Kalimantan Barat;2010;152522
+Kalimantan Selatan;2010;26199
+Kalimantan Tengah;2010;142342
+Kalimantan Timur;2010;107241
+Kalimantan Utara;2010;29944
+Kepulauan Riau;2010;4797
+Lampung;2010;14090
+Maluku;2010;4397
+Maluku Utara;2010;6067
+Nusa Tenggara Barat;2010;1146
+Nusa Tenggara Timur;2010;1779
+Papua;2010;25679
+Papua Barat;2010;11693
+Riau;2010;341923
+Sulawesi Barat;2010;7196
+Sulawesi Selatan;2010;8401
+Sulawesi Tengah;2010;21980
+Sulawesi Tenggara;2010;7630
+Sulawesi Utara;2010;2037
+Sumatera Barat;2010;22960
+Sumatera Selatan;2010;120180
+Sumatera Utara;2010;93338
+Yogyakarta;2010;143
+Aceh;2011;47485
+Bali;2011;216
+Bangka Belitung;2011;32400
+Banten;2011;2329
+Bengkulu;2011;24563
+Gorontalo;2011;2979
+Jakarta Raya;2011;4
+Jambi;2011;48905
+Jawa Barat;2011;5421
+Jawa Tengah;2011;4500
+Jawa Timur;2011;5849
+Kalimantan Barat;2011;262481
+Kalimantan Selatan;2011;48257
+Kalimantan Tengah;2011;139335
+Kalimantan Timur;2011;182064
+Kalimantan Utara;2011;41756
+Kepulauan Riau;2011;6945
+Lampung;2011;16755
+Maluku;2011;9380
+Maluku Utara;2011;5746
+Nusa Tenggara Barat;2011;2327
+Nusa Tenggara Timur;2011;7816
+Papua;2011;23157
+Papua Barat;2011;11549
+Riau;2011;255307
+Sulawesi Barat;2011;13855
+Sulawesi Selatan;2011;14390
+Sulawesi Tengah;2011;26195
+Sulawesi Tenggara;2011;22949
+Sulawesi Utara;2011;3116
+Sumatera Barat;2011;42570
+Sumatera Selatan;2011;132284
+Sumatera Utara;2011;100568
+Yogyakarta;2011;173
+Aceh;2012;49396
+Bali;2012;743
+Bangka Belitung;2012;39451
+Banten;2012;3286
+Bengkulu;2012;27761
+Gorontalo;2012;3927
+Jakarta Raya;2012;1
+Jambi;2012;152388
+Jawa Barat;2012;3753
+Jawa Tengah;2012;2450
+Jawa Timur;2012;8314
+Kalimantan Barat;2012;312530
+Kalimantan Selatan;2012;66809
+Kalimantan Tengah;2012;218881
+Kalimantan Timur;2012;255656
+Kalimantan Utara;2012;60396
+Kepulauan Riau;2012;9375
+Lampung;2012;30337
+Maluku;2012;11375
+Maluku Utara;2012;9010
+Nusa Tenggara Barat;2012;3118
+Nusa Tenggara Timur;2012;4649
+Papua;2012;46692
+Papua Barat;2012;13560
+Riau;2012;346655
+Sulawesi Barat;2012;13555
+Sulawesi Selatan;2012;16130
+Sulawesi Tengah;2012;37172
+Sulawesi Tenggara;2012;23041
+Sulawesi Utara;2012;2671
+Sumatera Barat;2012;36511
+Sumatera Selatan;2012;361299
+Sumatera Utara;2012;89313
+Yogyakarta;2012;55
+Aceh;2013;41390
+Bali;2013;396
+Bangka Belitung;2013;17575
+Banten;2013;1830
+Bengkulu;2013;14153
+Gorontalo;2013;5938
+Jakarta Raya;2013;0
+Jambi;2013;66707
+Jawa Barat;2013;2565
+Jawa Tengah;2013;1180
+Jawa Timur;2013;2754
+Kalimantan Barat;2013;199514
+Kalimantan Selatan;2013;35960
+Kalimantan Tengah;2013;103285
+Kalimantan Timur;2013;147487
+Kalimantan Utara;2013;31842
+Kepulauan Riau;2013;4763
+Lampung;2013;5150
+Maluku;2013;4668
+Maluku Utara;2013;6781
+Nusa Tenggara Barat;2013;1540
+Nusa Tenggara Timur;2013;2105
+Papua;2013;38013
+Papua Barat;2013;7906
+Riau;2013;156345
+Sulawesi Barat;2013;8072
+Sulawesi Selatan;2013;9008
+Sulawesi Tengah;2013;28515
+Sulawesi Tenggara;2013;15485
+Sulawesi Utara;2013;1715
+Sumatera Barat;2013;22433
+Sumatera Selatan;2013;100948
+Sumatera Utara;2013;53252
+Yogyakarta;2013;27
+Aceh;2014;58555
+Bali;2014;907
+Bangka Belitung;2014;41246
+Banten;2014;2275
+Bengkulu;2014;20320
+Gorontalo;2014;10353
+Jakarta Raya;2014;0
+Jambi;2014;77432
+Jawa Barat;2014;3758
+Jawa Tengah;2014;2883
+Jawa Timur;2014;6771
+Kalimantan Barat;2014;291474
+Kalimantan Selatan;2014;66373
+Kalimantan Tengah;2014;197213
+Kalimantan Timur;2014;211485
+Kalimantan Utara;2014;59037
+Kepulauan Riau;2014;19231
+Lampung;2014;11365
+Maluku;2014;15224
+Maluku Utara;2014;17979
+Nusa Tenggara Barat;2014;7148
+Nusa Tenggara Timur;2014;9175
+Papua;2014;58753
+Papua Barat;2014;17905
+Riau;2014;282785
+Sulawesi Barat;2014;14213
+Sulawesi Selatan;2014;21475
+Sulawesi Tengah;2014;46762
+Sulawesi Tenggara;2014;39717
+Sulawesi Utara;2014;6875
+Sumatera Barat;2014;30560
+Sumatera Selatan;2014;159552
+Sumatera Utara;2014;85505
+Yogyakarta;2014;59
+Aceh;2015;33969
+Bali;2015;133
+Bangka Belitung;2015;41281
+Banten;2015;2663
+Bengkulu;2015;20197
+Gorontalo;2015;13286
+Jakarta Raya;2015;0
+Jambi;2015;60611
+Jawa Barat;2015;3502
+Jawa Tengah;2015;1808
+Jawa Timur;2015;2901
+Kalimantan Barat;2015;267806
+Kalimantan Selatan;2015;73379
+Kalimantan Tengah;2015;213840
+Kalimantan Timur;2015;183872
+Kalimantan Utara;2015;47844
+Kepulauan Riau;2015;5869
+Lampung;2015;14132
+Maluku;2015;48979
+Maluku Utara;2015;45451
+Nusa Tenggara Barat;2015;4435
+Nusa Tenggara Timur;2015;7422
+Papua;2015;82032
+Papua Barat;2015;42462
+Riau;2015;90762
+Sulawesi Barat;2015;14055
+Sulawesi Selatan;2015;28080
+Sulawesi Tengah;2015;91932
+Sulawesi Tenggara;2015;43540
+Sulawesi Utara;2015;15596
+Sumatera Barat;2015;22500
+Sumatera Selatan;2015;169040
+Sumatera Utara;2015;53040
+Yogyakarta;2015;42
+Aceh;2016;50074
+Bali;2016;156
+Bangka Belitung;2016;58203
+Banten;2016;1969
+Bengkulu;2016;24378
+Gorontalo;2016;10910
+Jakarta Raya;2016;0
+Jambi;2016;157246
+Jawa Barat;2016;3657
+Jawa Tengah;2016;2285
+Jawa Timur;2016;3188
+Kalimantan Barat;2016;286374
+Kalimantan Selatan;2016;65747
+Kalimantan Tengah;2016;492975
+Kalimantan Timur;2016;313958
+Kalimantan Utara;2016;38488
+Kepulauan Riau;2016;13058
+Lampung;2016;16242
+Maluku;2016;27623
+Maluku Utara;2016;26859
+Nusa Tenggara Barat;2016;4028
+Nusa Tenggara Timur;2016;7367
+Papua;2016;83052
+Papua Barat;2016;26815
+Riau;2016;147085
+Sulawesi Barat;2016;13677
+Sulawesi Selatan;2016;30886
+Sulawesi Tengah;2016;74262
+Sulawesi Tenggara;2016;38445
+Sulawesi Utara;2016;8782
+Sumatera Barat;2016;39172
+Sumatera Selatan;2016;275754
+Sumatera Utara;2016;79282
+Yogyakarta;2016;67
+Aceh;2017;45813
+Bali;2017;263
+Bangka Belitung;2017;25558
+Banten;2017;3495
+Bengkulu;2017;27232
+Gorontalo;2017;7869
+Jakarta Raya;2017;1
+Jambi;2017;86203
+Jawa Barat;2017;5646
+Jawa Tengah;2017;3457
+Jawa Timur;2017;4713
+Kalimantan Barat;2017;181330
+Kalimantan Selatan;2017;37465
+Kalimantan Tengah;2017;102894
+Kalimantan Timur;2017;134297
+Kalimantan Utara;2017;33775
+Kepulauan Riau;2017;7993
+Lampung;2017;11761
+Maluku;2017;7333
+Maluku Utara;2017;10589
+Nusa Tenggara Barat;2017;6195
+Nusa Tenggara Timur;2017;10350
+Papua;2017;49615
+Papua Barat;2017;15891
+Riau;2017;123675
+Sulawesi Barat;2017;12564
+Sulawesi Selatan;2017;24051
+Sulawesi Tengah;2017;36947
+Sulawesi Tenggara;2017;27135
+Sulawesi Utara;2017;5777
+Sumatera Barat;2017;51512
+Sumatera Selatan;2017;124661
+Sumatera Utara;2017;74551
+Yogyakarta;2017;108
+Aceh;2018;46111
+Bali;2018;302
+Bangka Belitung;2018;22426
+Banten;2018;3401
+Bengkulu;2018;24624
+Gorontalo;2018;8007
+Jakarta Raya;2018;0
+Jambi;2018;69978
+Jawa Barat;2018;4509
+Jawa Tengah;2018;2573
+Jawa Timur;2018;4290
+Kalimantan Barat;2018;159317
+Kalimantan Selatan;2018;37578
+Kalimantan Tengah;2018;110369
+Kalimantan Timur;2018;147742
+Kalimantan Utara;2018;36813
+Kepulauan Riau;2018;6266
+Lampung;2018;10337
+Maluku;2018;11187
+Maluku Utara;2018;12375
+Nusa Tenggara Barat;2018;8144
+Nusa Tenggara Timur;2018;5184
+Papua;2018;34778
+Papua Barat;2018;20511
+Riau;2018;101107
+Sulawesi Barat;2018;12974
+Sulawesi Selatan;2018;19442
+Sulawesi Tengah;2018;37525
+Sulawesi Tenggara;2018;24214
+Sulawesi Utara;2018;7455
+Sumatera Barat;2018;37400
+Sumatera Selatan;2018;125458
+Sumatera Utara;2018;66196
+Yogyakarta;2018;140
+Aceh;2019;28562
+Bali;2019;706
+Bangka Belitung;2019;25529
+Banten;2019;4715
+Bengkulu;2019;18200
+Gorontalo;2019;10959
+Jakarta Raya;2019;0
+Jambi;2019;67673
+Jawa Barat;2019;6974
+Jawa Tengah;2019;2769
+Jawa Timur;2019;5112
+Kalimantan Barat;2019;143107
+Kalimantan Selatan;2019;44331
+Kalimantan Tengah;2019;122143
+Kalimantan Timur;2019;132059
+Kalimantan Utara;2019;29326
+Kepulauan Riau;2019;8888
+Lampung;2019;13177
+Maluku;2019;17179
+Maluku Utara;2019;14166
+Nusa Tenggara Barat;2019;8705
+Nusa Tenggara Timur;2019;7794
+Papua;2019;34560
+Papua Barat;2019;16558
+Riau;2019;102819
+Sulawesi Barat;2019;13036
+Sulawesi Selatan;2019;22925
+Sulawesi Tengah;2019;45513
+Sulawesi Tenggara;2019;34956
+Sulawesi Utara;2019;8921
+Sumatera Barat;2019;30977
+Sumatera Selatan;2019;102590
+Sumatera Utara;2019;51889
+Yogyakarta;2019;69
+Aceh;2020;30225
+Bali;2020;165
+Bangka Belitung;2020;24628
+Banten;2020;2042
+Bengkulu;2020;16311
+Gorontalo;2020;3030
+Jakarta Raya;2020;0
+Jambi;2020;78387
+Jawa Barat;2020;3459
+Jawa Tengah;2020;2752
+Jawa Timur;2020;4919
+Kalimantan Barat;2020;121935
+Kalimantan Selatan;2020;21000
+Kalimantan Tengah;2020;90490
+Kalimantan Timur;2020;91821
+Kalimantan Utara;2020;24481
+Kepulauan Riau;2020;8779
+Lampung;2020;9472
+Maluku;2020;5660
+Maluku Utara;2020;7423
+Nusa Tenggara Barat;2020;6598
+Nusa Tenggara Timur;2020;6516
+Papua;2020;29911
+Papua Barat;2020;16318
+Riau;2020;94605
+Sulawesi Barat;2020;8513
+Sulawesi Selatan;2020;14268
+Sulawesi Tengah;2020;26788
+Sulawesi Tenggara;2020;18920
+Sulawesi Utara;2020;3124
+Sumatera Barat;2020;30395
+Sumatera Selatan;2020;108366
+Sumatera Utara;2020;50234
+Yogyakarta;2020;56
+Aceh;2021;31786
+Bali;2021;199
+Bangka Belitung;2021;31006
+Banten;2021;1915
+Bengkulu;2021;14326
+Gorontalo;2021;2199
+Jakarta Raya;2021;1
+Jambi;2021;73131
+Jawa Barat;2021;2568
+Jawa Tengah;2021;2109
+Jawa Timur;2021;3520
+Kalimantan Barat;2021;109033
+Kalimantan Selatan;2021;21668
+Kalimantan Tengah;2021;53159
+Kalimantan Timur;2021;74061
+Kalimantan Utara;2021;19260
+Kepulauan Riau;2021;4391
+Lampung;2021;7605
+Maluku;2021;3727
+Maluku Utara;2021;6041
+Nusa Tenggara Barat;2021;4816
+Nusa Tenggara Timur;2021;9791
+Papua;2021;26341
+Papua Barat;2021;12209
+Riau;2021;95679
+Sulawesi Barat;2021;9848
+Sulawesi Selatan;2021;10243
+Sulawesi Tengah;2021;22583
+Sulawesi Tenggara;2021;12405
+Sulawesi Utara;2021;2824
+Sumatera Barat;2021;35801
+Sumatera Selatan;2021;77866
+Sumatera Utara;2021;59204
+Yogyakarta;2021;71
+Aceh;2022;29785
+Bali;2022;262
+Bangka Belitung;2022;34052
+Banten;2022;1546
+Bengkulu;2022;23800
+Gorontalo;2022;2819
+Jakarta Raya;2022;0
+Jambi;2022;75657
+Jawa Barat;2022;2575
+Jawa Tengah;2022;2085
+Jawa Timur;2022;2918
+Kalimantan Barat;2022;137501
+Kalimantan Selatan;2022;17769
+Kalimantan Tengah;2022;72734
+Kalimantan Timur;2022;61563
+Kalimantan Utara;2022;17636
+Kepulauan Riau;2022;2845
+Lampung;2022;7023
+Maluku;2022;5059
+Maluku Utara;2022;6358
+Nusa Tenggara Barat;2022;5616
+Nusa Tenggara Timur;2022;7000
+Papua;2022;28605
+Papua Barat;2022;13752
+Riau;2022;86882
+Sulawesi Barat;2022;10043
+Sulawesi Selatan;2022;15943
+Sulawesi Tengah;2022;24645
+Sulawesi Tenggara;2022;13369
+Sulawesi Utara;2022;2731
+Sumatera Barat;2022;35602
+Sumatera Selatan;2022;87810
+Sumatera Utara;2022;49218
+Yogyakarta;2022;36
+Aceh;2023;38983
+Bali;2023;558
+Bangka Belitung;2023;50388
+Banten;2023;3744
+Bengkulu;2023;29912
+Gorontalo;2023;8242
+Jakarta Raya;2023;0
+Jambi;2023;93816
+Jawa Barat;2023;5561
+Jawa Tengah;2023;4726
+Jawa Timur;2023;6319
+Kalimantan Barat;2023;206711
+Kalimantan Selatan;2023;51434
+Kalimantan Tengah;2023;144866
+Kalimantan Timur;2023;134307
+Kalimantan Utara;2023;26441
+Kepulauan Riau;2023;3343
+Lampung;2023;21635
+Maluku;2023;14304
+Maluku Utara;2023;11895
+Nusa Tenggara Barat;2023;9928
+Nusa Tenggara Timur;2023;8807
+Papua;2023;22967
+Papua Barat;2023;16565
+Riau;2023;115270
+Sulawesi Barat;2023;14697
+Sulawesi Selatan;2023;26949
+Sulawesi Tengah;2023;43093
+Sulawesi Tenggara;2023;34164
+Sulawesi Utara;2023;5793
+Sumatera Barat;2023;35180
+Sumatera Selatan;2023;139240
+Sumatera Utara;2023;65335
+Yogyakarta;2023;107
+Aceh;2024;46071
+Bali;2024;168
+Bangka Belitung;2024;31059
+Banten;2024;3256
+Bengkulu;2024;20998
+Gorontalo;2024;4643
+Jakarta Raya;2024;0
+Jambi;2024;91324
+Jawa Barat;2024;4421
+Jawa Tengah;2024;2774
+Jawa Timur;2024;4505
+Kalimantan Barat;2024;173923
+Kalimantan Selatan;2024;27839
+Kalimantan Tengah;2024;118639
+Kalimantan Timur;2024;110376
+Kalimantan Utara;2024;19954
+Kepulauan Riau;2024;2623
+Lampung;2024;12943
+Maluku;2024;5198
+Maluku Utara;2024;7303
+Nusa Tenggara Barat;2024;6153
+Nusa Tenggara Timur;2024;6484
+Papua;2024;22586
+Papua Barat;2024;12150
+Riau;2024;100670
+Sulawesi Barat;2024;8456
+Sulawesi Selatan;2024;9599
+Sulawesi Tengah;2024;28744
+Sulawesi Tenggara;2024;16908
+Sulawesi Utara;2024;3474
+Sumatera Barat;2024;32209
+Sumatera Selatan;2024;120445
+Sumatera Utara;2024;64259
+Yogyakarta;2024;108
+Aceh;2025;60125
+Bali;2025;314
+Bangka Belitung;2025;31395
+Banten;2025;2383
+Bengkulu;2025;27160
+Gorontalo;2025;5614
+Jakarta Raya;2025;0
+Jambi;2025;76225
+Jawa Barat;2025;3278
+Jawa Tengah;2025;2408
+Jawa Timur;2025;4126
+Kalimantan Barat;2025;148087
+Kalimantan Selatan;2025;26829
+Kalimantan Tengah;2025;101918
+Kalimantan Timur;2025;122323
+Kalimantan Utara;2025;22228
+Kepulauan Riau;2025;4276
+Lampung;2025;13549
+Maluku;2025;4079
+Maluku Utara;2025;9359
+Nusa Tenggara Barat;2025;3639
+Nusa Tenggara Timur;2025;6865
+Papua;2025;46728
+Papua Barat;2025;15320
+Riau;2025;96186
+Sulawesi Barat;2025;11251
+Sulawesi Selatan;2025;14594
+Sulawesi Tengah;2025;34322
+Sulawesi Tenggara;2025;23555
+Sulawesi Utara;2025;2768
+Sumatera Barat;2025;46161
+Sumatera Selatan;2025;119329
+Sumatera Utara;2025;75406
+Yogyakarta;2025;31
