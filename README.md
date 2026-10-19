@@ -45,7 +45,7 @@ Citra Satelit (GEE) → Valuasi Lingkungan → PDRB Hijau + Data BPS → Panel D
 | `Dokumentasi/` | `dokumentasi_panduan.md` dan folder `images/` |
 | `SourceCode/` | `PM25.js`, `NDVI.js`, `LST.js`, `ERA5.js`, `Carbon_Price.ipynb`, `ValuasiPM25.ipynb`, `FullPanel3.ipynb`, `GreenPDRB.ipynb`, `CrossCheck.ipynb` |
 
-Data batas wilayah provinsi (Dukcapil, Desember 2019) tidak disimpan di repositori dan dapat diunduh melalui [Google Drive](`[[isi tautan Google Drive]](https://drive.google.com/drive/folders/1nKzI9HcL5rdT9jHo9bRqpKcWPzJQkqyT?usp=sharing)`).
+Data batas wilayah provinsi (Dukcapil, Desember 2019) tidak disimpan di repositori dan dapat diunduh melalui [Google Drive](https://drive.google.com/drive/folders/1nKzI9HcL5rdT9jHo9bRqpKcWPzJQkqyT?usp=sharing).
 
 ## Dataset
 
